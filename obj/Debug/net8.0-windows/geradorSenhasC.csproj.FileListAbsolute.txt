@@ -1,0 +1,17 @@
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\bin\Debug\net8.0-windows\geradorSenhasC.exe
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\bin\Debug\net8.0-windows\geradorSenhasC.deps.json
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\bin\Debug\net8.0-windows\geradorSenhasC.runtimeconfig.json
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\bin\Debug\net8.0-windows\geradorSenhasC.dll
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\bin\Debug\net8.0-windows\geradorSenhasC.pdb
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\geradorSenhasC.Form1.resources
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\geradorSenhasC.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\geradorSenhasC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\geradorSenhasC.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\geradorSenhasC.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\geradorSenhasC.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\geradorSenhasC.sourcelink.json
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\geradorSenhasC.dll
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\refint\geradorSenhasC.dll
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\geradorSenhasC.pdb
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\geradorSenhasC.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\geradorSenhasC\geradorSenhasC\obj\Debug\net8.0-windows\ref\geradorSenhasC.dll
